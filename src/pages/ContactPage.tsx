@@ -100,7 +100,7 @@ const ContactPage: React.FC = () => {
                       Phone
                     </h3>
                     <p className="mt-1 text-gray-600 dark:text-gray-300">
-                      +1 (555) 123-4567
+                      +91 9666666669
                     </p>
                   </div>
                 </div>
@@ -111,9 +111,9 @@ const ContactPage: React.FC = () => {
                       Address
                     </h3>
                     <p className="mt-1 text-gray-600 dark:text-gray-300">
-                      123 Commerce St<br />
-                      Tech City, TC 12345<br />
-                      United States
+                      123 Shivaji Road<br />
+                      New Delhi<br />
+                      India
                     </p>
                   </div>
                 </div>
